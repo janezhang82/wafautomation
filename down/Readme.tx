@@ -1,0 +1,4 @@
+1, set a lower version in current.txt
+2, execute "python downloadmaster.py" or "python downloaddevelop.py" 
+it will compare the version of current.txt and the build.zyprotect.com 
+then download the newest build on build.zyprotect.com
